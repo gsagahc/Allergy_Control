@@ -1,7 +1,7 @@
 # Allergy_Control
- Controle de Alergias
-A simple CRU For Allergy Control
-API Rest with Spring Boot
--Migrations
--Authentication with JWT Token
--Exception control
+<br> Controle de Alergias
+<br>**A simple CRU For Allergy Control**
+<br>API Rest with Spring Boot
+<br>-Migrations
+<br>-Authentication with JWT Token
+<br>-Exception control
